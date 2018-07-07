@@ -1,0 +1,7 @@
+{
+    "name": "fgui",
+    "author": "troyedwardsjr",
+    "version": "1.0.0",
+    "main": "./fairygui.js",
+    "types": "./fairygui.d.ts"
+}
